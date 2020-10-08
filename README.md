@@ -1,13 +1,13 @@
 #2 Second-milestone-project
 Interactive Frontend Development Milestone Project
 
-<h1 align="center">Luxury Brands Matching Came </h1>
+<h1 align="center">Luxury Brands Matching Game </h1>
 
-[View the live project here.](#)
+[View the live project here.](https://samuellevine1.github.io/Redo-Second-Milesone-project/)
 
-This is the "Luxury Brand's Matching Game" a landing page to play a fun game matching up the different luxury clothing brands. 
+This is the "Luxury Brand's Matching Game", a landing page for a fun, interactive matching game of different luxury clothing brands. 
 
-<h2 align="center"><img src="#"></h2>
+<h2 align="center"><img src="https://static.wixstatic.com/media/bc5d55_a82e54d5729641e7934c534a06015f4a~mv2.png"></h2>
 
 ## User Experience (UX)
 
@@ -16,13 +16,15 @@ This is the "Luxury Brand's Matching Game" a landing page to play a fun game mat
     -   #### First Time Visitor Goals
 
         1. As a First Time Visitor, I want the user to enjoy matching up the different brands.
-        2. As a First Time Visitor, I want the visitor to feel confident in the knoledge of the brand logos. 
+        2. As a First Time Visitor, I want the visitor to feel confident in the knowledge of the brand logos. 
         3. As a First Time Visitor, I want the person to feel engaged and challenged to complete the flash cards.
+
+
     -   #### Returning Visitor Goals
 
-        1. As a Returning Visitor, I know exactly what it feels like to not be in the "know" of different luxury brands as a kid. This game allows the user to feel confident in their knoledge about the brands. 
+        1. As a Returning Visitor, I know exactly what it feels like to not know the different luxury brands. This game allows the user to feel confident in their knowledge of the brands. 
         2. As a Returning Visitor, I want the customers to be able to build photo memory knoledge to rember the brands when they see them. 
-        3. As a Returning Visitor, I want them to like the different pictures and the ability to reset the challenge if they want to try again. 
+        3. As a Returning Visitor, I want them to like the different pictures and have the ability to reset the challenge if they want to try again. 
 
 -   ### User Stories
       1. Name- Josh
@@ -31,33 +33,33 @@ This is the "Luxury Brand's Matching Game" a landing page to play a fun game mat
       4. Martal Status-Single
       5. Jobe Title- Barista 
       6. Goals
-      - To be uptodate with the luxury trends.
-      - To one day be cool enough to buy a Louis Vuitton Bag one day. 
-      - To be the cool kid in school with all the nice clothes.
+      - To be up-to-date with the luxury trends.
+      - To one day be able to recognize and buy a Louis Vuitton Bag. 
+      - To feel confident in his purchase and clothing attire choices.
       7. Challenges
       - He dosen't know any of the other luxury brand names.
       - All of his friends talk about all the different brands and he feels left out.
-      - He needs help to know the luxury brand logos but dosent want to ask or else he might risk looking wierd
+      - He needs help to know the luxury brand logos but dosent want to ask or else he might risk looking odd.
       8. How our game can help
-      - My game helps the kid reconize the different brands logos so that when his friends are wearing them he can actually be uptodate.
-      - The game will make him quick on his feat and know the differences between the symbols so that he knows which one exactly matter at the specific time.
-      - The game will help him to know a diverse varity of high end luxury brands so that he will feel confident when it comes time to know which symbol he would want to buy when it is time.
+      - My game helps the kid reconize the different brands logos so that when his friends are wearing them he can actually recognize them.
+      - The game will make him to be quick on his feat and know the differences between the symbols.
+      - The game will help him to know a varity of high end luxury brands so that he will feel confident when it comes time to make a purchase.
 
 -   ### Design
     -   #### Color Scheme
         -   The main colors used are white(elegance), blue (welcoming and trusted), grey(cutting edge) and orange(knowledgeable).
     -   #### Typography
-        -   I just used the main font of Arial for a clean and simple look. With a back up font of sans-serif. 
+        -   I just used the main font of Arial for a clean and simple look with a back up font of sans-serif. 
     -   #### Imagery
         -   All of the starting cards have a starting image of a gold bar showing a very elegant item behind the card. Behind each card is a luxury brand and its correlating pair that switches spots each time the game starts over. 
 
 *   ### Wireframes
 
-    -   Desktop Wireframe - [View](#)
+    -   Desktop Wireframe - [View](https://static.wixstatic.com/media/bc5d55_49863a609d8d470e968500726d8ea9e4~mv2.png)
 
-    -   Mobile Wireframe - [View](#)
+    -   Mobile Wireframe - [View](#https://static.wixstatic.com/media/bc5d55_41e34ab1210644c6a1453bbdc5b1e188~mv2.png)
 
-    -   Tablet Wireframe - [View](#)
+    -   Tablet Wireframe - [View](https://static.wixstatic.com/media/bc5d55_e8762ced64974e48beea4b3247eaac8b~mv2.png)
 
 ## Features
 
@@ -166,7 +168,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
--  All images came from either my computer library, Unsplash or google images for logos. 
+-  All images came from either my computer library, Unsplash or Google images for logos. 
 -  [HTML5](https://en.wikipedia.org/wiki/HTML5)- For base layout of content. 
 -  [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)- This was used for styling of the HTML.
 -  [Java Script](https://en.wikipedia.org/wiki/JavaScript)- This was used for the full animation of the cards. 
@@ -174,7 +176,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Content and credits 
 
--   Content was written by the developer Samuel Levine. For help on unknown topics I used "W3 schools" google websites for minor code error help. 
+-   Content was written by the developer Samuel Levine. For help on unknown topics I used "W3 schools" Google websites for minor code error help. 
 
 
 
