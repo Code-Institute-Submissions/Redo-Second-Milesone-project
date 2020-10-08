@@ -57,7 +57,7 @@ This is the "Luxury Brand's Matching Game", a landing page for a fun, interactiv
 
     -   Desktop Wireframe - [View](https://static.wixstatic.com/media/bc5d55_49863a609d8d470e968500726d8ea9e4~mv2.png)
 
-    -   Mobile Wireframe - [View](#https://static.wixstatic.com/media/bc5d55_41e34ab1210644c6a1453bbdc5b1e188~mv2.png)
+    -   Mobile Wireframe - [View](https://static.wixstatic.com/media/bc5d55_41e34ab1210644c6a1453bbdc5b1e188~mv2.png)
 
     -   Tablet Wireframe - [View](https://static.wixstatic.com/media/bc5d55_e8762ced64974e48beea4b3247eaac8b~mv2.png)
 
